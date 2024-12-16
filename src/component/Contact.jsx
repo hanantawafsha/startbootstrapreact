@@ -100,7 +100,7 @@ export default function Contact() {
               </div>
 
               <button
-                className="btn btn-primary btn-xl"
+                className="btn btn-success btn-xl"
                 id="submitButton"
                 type="submit"
               >
