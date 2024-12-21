@@ -11,9 +11,9 @@ export default function App() {
   return (
     <Router>
       <Navbar />
+      < Masthead />
       <Routes>
-        <Route path='/' element={<Masthead />} />
-        <Route path='/portfolio' element={<Portfolio />} />
+      <Route path='/' element={<Portfolio />} />
         <Route path='/about' element={<About />} />
         <Route path='/contact' element={<Contact />} />
         
