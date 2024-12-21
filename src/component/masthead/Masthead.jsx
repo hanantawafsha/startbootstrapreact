@@ -1,5 +1,5 @@
 import React from 'react'
-import mastHeadImg from '../assets/img/avataaars.svg'
+import mastHeadImg from '../../assets/img/avataaars.svg'
 export default function Masthead() {
   return (
 <header className="masthead text-white text-center">

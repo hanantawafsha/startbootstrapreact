@@ -2,12 +2,12 @@ import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 
-import CabinImg from '../assets/img/cabin.png'
-import CakeImg from '../assets/img/cake.png'
-import CircusImg from '../assets/img/circus.png'
-import GameImg from '../assets/img/game.png'
-import SafeImg from '../assets/img/safe.png'
-import SubmarineImg from '../assets/img/submarine.png'
+import CabinImg from '../../assets/img/cabin.png'
+import CakeImg from '../../assets/img/cake.png'
+import CircusImg from '../../assets/img/circus.png'
+import GameImg from '../../assets/img/game.png'
+import SafeImg from '../../assets/img/safe.png'
+import SubmarineImg from '../../assets/img/submarine.png'
 
 
 
